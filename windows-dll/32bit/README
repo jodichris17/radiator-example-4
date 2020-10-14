@@ -1,0 +1,7 @@
+Precompiled files for 32 bit Windows.
+
+radiator-eventlog.dll
++++++++++++++++++++++
+Helper DLL for Radiator logging and authentication logging. See
+goodies\eventlog.cfg for more information.
+

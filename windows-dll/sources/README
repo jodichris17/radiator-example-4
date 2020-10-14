@@ -1,0 +1,8 @@
+Source files for Windows DLLs
+
+radiator-eventlog.mc
+make-eventlog-dll.bat
+++++++++++++++++++++
+Helper DLL for Radiator logging and authentication logging. See
+goodies\eventlog.cfg for more information.
+
